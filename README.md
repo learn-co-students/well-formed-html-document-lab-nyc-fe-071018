@@ -79,3 +79,15 @@ the rest of the page.
 
 [help]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-
 html-pages-in-the-learn-ide
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
